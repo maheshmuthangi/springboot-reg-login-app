@@ -1,0 +1,11 @@
+com\auth\registrationlogindemo\repository\RoleRepository.class
+com\auth\registrationlogindemo\service\UserServiceImpl.class
+com\auth\registrationlogindemo\security\CustomUserDetailsService.class
+com\auth\registrationlogindemo\dto\UserDto.class
+com\auth\registrationlogindemo\RegistrationLoginDemoApplication.class
+com\auth\registrationlogindemo\controller\AuthuenticationController.class
+com\auth\registrationlogindemo\entity\User.class
+com\auth\registrationlogindemo\config\SpringSecurity.class
+com\auth\registrationlogindemo\entity\Role.class
+com\auth\registrationlogindemo\service\UserService.class
+com\auth\registrationlogindemo\repository\UserRepository.class
